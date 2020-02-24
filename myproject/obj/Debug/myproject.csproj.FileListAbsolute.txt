@@ -1,0 +1,17 @@
+c:\users\umershiekh\documents\visual studio 2013\Projects\myproject\myproject\bin\Debug\myproject.exe.config
+c:\users\umershiekh\documents\visual studio 2013\Projects\myproject\myproject\bin\Debug\myproject.exe
+c:\users\umershiekh\documents\visual studio 2013\Projects\myproject\myproject\bin\Debug\myproject.pdb
+c:\users\umershiekh\documents\visual studio 2013\Projects\myproject\myproject\obj\Debug\myproject.login.resources
+c:\users\umershiekh\documents\visual studio 2013\Projects\myproject\myproject\obj\Debug\myproject.Properties.Resources.resources
+c:\users\umershiekh\documents\visual studio 2013\Projects\myproject\myproject\obj\Debug\myproject.csproj.GenerateResource.Cache
+c:\users\umershiekh\documents\visual studio 2013\Projects\myproject\myproject\obj\Debug\myproject.exe
+c:\users\umershiekh\documents\visual studio 2013\Projects\myproject\myproject\obj\Debug\myproject.pdb
+c:\users\umershiekh\documents\visual studio 2013\Projects\myproject\myproject\obj\Debug\myproject.csprojResolveAssemblyReference.cache
+c:\users\umershiekh\documents\visual studio 2013\Projects\myproject\myproject\obj\Debug\myproject.HOME.resources
+c:\users\umershiekh\documents\visual studio 2013\Projects\myproject\myproject\obj\Debug\myproject.REGISTRATION.resources
+c:\users\umershiekh\documents\visual studio 2013\Projects\myproject\myproject\obj\Debug\myproject.SUBMISSION.resources
+c:\users\umershiekh\documents\visual studio 2013\Projects\myproject\myproject\obj\Debug\myproject.RECORD.resources
+C:\Users\umershiekh\documents\visual studio 2013\Projects\myproject\myproject\obj\Debug\myproject.TRANSACTION.resources
+D:\myproject\myproject\bin\Debug\myproject.exe.config
+D:\myproject\myproject\obj\Debug\myproject.exe
+D:\myproject\myproject\obj\Debug\myproject.pdb
